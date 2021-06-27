@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Deckmaster",
+    "desc": "Deckmaster is a deck editor for the Yu-Gi-Oh! TCG. It features an enhanced deck editor and combo editor, along with support for live combo probabilities.",
+    "image": "https://raw.githubusercontent.com/TheOtterlord/deckmaster/main/docs/assets/deckbuilding.png",
+    "links": [
+      {"href": "https://github.com/TheOtterlord/deckmaster", "type": "github"},
+      {"href": "https://theotterlord.github.io/deckmaster", "type": "external-link"}
+    ]
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "This website is where I share my open-source projects. All the code for this website is also open-source. You'll find it on the GitHub repository linked below :)",
+    "image": "https://raw.githubusercontent.com/TheOtterlord/deckmaster/main/docs/assets/deckbuilding.png",
+    "links": [
+      {"href": "https://github.com/TheOtterlord/theotterlord.github.io", "type": "github"},
+      {"href": "#", "type": "external-link"}
+    ]
+  },
+  {
+    "name": "HackMaster Association Website",
+    "desc": "The HMA (HackMaster Association) is a revival project created to bring the hackmaster playerbase back together and playing games. I created and maintain the website to this day.",
+    "image": "https://raw.githubusercontent.com/TheOtterlord/theotterlord.github.io/main/src/assets/img/hma.png",
+    "links": [
+      {"href": "https://hackmasterassociation.com", "type": "external-link"}
+    ]
+  }
+]
